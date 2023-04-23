@@ -1,5 +1,6 @@
 # Community Classroom is OP
+-Aman kumar upadhyay  is accessing this readme file for 
+-learning the concept of git and contributing in the another source
+-i am happy to learn this concept it is amazing concept 
+- feeling great 
 
-- Arkoprovo Datta says that this community is amazing.
-- More power to Arko. Love the work which you are doing for the community.
-- Finally learned Github
